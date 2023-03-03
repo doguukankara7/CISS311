@@ -1,0 +1,18 @@
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\bin\Debug\net6.0-windows\Team project 3.exe
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\bin\Debug\net6.0-windows\Team project 3.deps.json
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\bin\Debug\net6.0-windows\Team project 3.runtimeconfig.json
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\bin\Debug\net6.0-windows\Team project 3.dll
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\bin\Debug\net6.0-windows\Team project 3.pdb
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team project 3.csproj.AssemblyReference.cache
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team_project_3.AddaStudent.resources
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team_project_3.Form1.resources
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team project 3.csproj.GenerateResource.cache
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team project 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team project 3.AssemblyInfoInputs.cache
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team project 3.AssemblyInfo.cs
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team project 3.csproj.CoreCompileInputs.cache
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team project 3.dll
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\refint\Team project 3.dll
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team project 3.pdb
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\Team project 3.genruntimeconfig.cache
+C:\Users\karad\OneDrive\Masaüstü\CISS311\Team project 3\obj\Debug\net6.0-windows\ref\Team project 3.dll
